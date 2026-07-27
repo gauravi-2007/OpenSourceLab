@@ -4,3 +4,5 @@ Division : Batch D
 Branch : Information Technology
 Subject : Open Source Technology
 Practical No. : 2
+
+This practical demonstrates Git and GitHub basics.
